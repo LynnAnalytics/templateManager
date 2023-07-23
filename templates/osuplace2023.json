@@ -4,8 +4,8 @@
 	{
             "name": "reimari endcard",
             "sources": ["https://media.discordapp.net/attachments/1132651009714442271/1132670780514246748/ReiMariEND.png"],
-            "x": 162,
-            "y": 173
+            "x": -162,
+            "y": -173
         },
         {
             "name": "Swiss 2.0",
