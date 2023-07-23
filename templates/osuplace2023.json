@@ -1,14 +1,29 @@
 {
-    "faction": "/r/osuplace",
-    "contact": "discord.osu.place - littleendu#0 or emi.x#0",
+    "contact": "Discord: .gay",
     "templates": [
-        {
-            "name": "bad apple placeholder",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/1132651009714442271/1132657647129219092/ReiMariEndcard.png"
-            ],
+	{
+            "name": "reimari endcard",
+            "sources": ["https://cdn.discordapp.com/attachments/1132651009714442271/1132651009919955064/ReiMariEndcard.png"],
             "x": -662,
             "y": -673
+        },
+        {
+            "name": "Swiss 2.0",
+            "sources": ["https://i.imgur.com/YP4IRzf.png"],
+            "x": 1796,
+            "y": 632
+        },
+        {
+            "name": "Swiss 3.0",
+            "sources": ["https://i.imgur.com/6Ewbpyc.png"],
+            "x": 416,
+            "y": 1184
+        },
+        {
+            "name": "The Rocc, Layton, Ace Alliance!",
+            "sources": ["https://media.discordapp.net/attachments/1132431969486131313/1132648823483805716/ROCC_LAYTON_ACE_SWISS_3.png"],
+            "x": 406,
+            "y": 1171
         }
     ]
 }
