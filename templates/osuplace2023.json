@@ -1,12 +1,87 @@
 {
-    "contact": "Discord: .gay",
+    "faction": "/r/osuplace",
+    "contact": "discord.osu.place - littleendu#0 or emi.x#0",
+    "notifications": "https://broadcaster.osu.place",
     "templates": [
-	{
-            "name": "reimari endcard",
-            "sources": ["https://media.discordapp.net/attachments/1132651009714442271/1132670780514246748/ReiMariEND.png"],
+        {
+            "name": "bmc (the blurry face)",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/364902074858602498/1132261200349118525/bmc_day2.png"
+            ],
+            "x": 1704,
+            "y": 1704
+        },
+        {
+            "name": "osu! logo; Bad Apple!! text; Border;",
+            "sources": [
+                "https://i.imgur.com/ATlaJWX.png"
+            ],
             "x": 1148,
             "y": 1172
         }
-        }
+    ],
+    "whitelist": [
+        {
+            "name": "Digital Clock",
+            "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
+        },
+        {
+            "name": "touhou",
+            "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+        },
+        {
+            "name": "Foxhole",
+            "url": "https://pastebin.com/raw/icTkrAnz"
+        },
+        {
+            "name": "Neurocord",
+            "url": "https://neuroplace.pages.dev/bruh.json"
+        },
+        {
+            "name": "Komi",
+            "url": "https://gist.githubusercontent.com/missing4nickname/02471a670bcbcd8e81230460aa41161e/raw"
+        },
+        {
+            "name": "April Knights",
+            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+        },
+		{
+			"name": "Camellia",
+            "url": "https://pastebin.com/raw/Uz8SB5Aw"
+		}
+    ],
+    "blacklist": [
+        {
+            "name": "r/osuplace",
+            "url": "https://rentry.org/osuplace2023/raw"
+        },
+        {
+            "name": "r/osuplace",
+            "url": "https://rentry.co/osuplace2023/raw"
+        },
+        {
+            "name": "r/osuplace",
+            "url": "https://osu.place/e/osuplace2023.json"
+        },
+        {
+            "name": "P3ACE Alliance",
+            "url": "https://charity.pxls.space/p3ace"
+        },
+        {
+            "name": "omori",
+            "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+        },
+        {
+            "name": "UGA",
+            "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
+        },
+        {
+            "name": "France",
+            "url": "https://sayrix.github.io/PlaceFR/overlay.json"
+        },
+        {
+            "name": "Blue Corner",
+            "url": "https://rentry.co/od37p/raw"
+       }
     ]
 }
