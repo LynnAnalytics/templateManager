@@ -1,7 +1,6 @@
 {
     "faction": "/r/osuplace",
     "contact": "discord.osu.place - littleendu#0 or emi.x#0",
-    "notifications": "https://broadcaster.osu.place",
     "templates": [
         {
             "name": "bmc (the blurry face)",
@@ -30,8 +29,8 @@
             "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
         },
         {
-            "name": "Foxhole",
-            "url": "https://pastebin.com/raw/icTkrAnz"
+            "name": "hehehe",
+            "url": "https://i.imgur.com/ATlaJWX.png"
         },
         {
             "name": "Neurocord",
