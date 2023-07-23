@@ -4,26 +4,9 @@
 	{
             "name": "reimari endcard",
             "sources": ["https://media.discordapp.net/attachments/1132651009714442271/1132670780514246748/ReiMariEND.png"],
-            "x": 1796,
-            "y": 900
-        },
-        {
-            "name": "Swiss 2.0",
-            "sources": ["https://i.imgur.com/YP4IRzf.png"],
-            "x": 1796,
-            "y": 632
-        },
-        {
-            "name": "Swiss 3.0",
-            "sources": ["https://i.imgur.com/6Ewbpyc.png"],
-            "x": 416,
-            "y": 1184
-        },
-        {
-            "name": "The Rocc, Layton, Ace Alliance!",
-            "sources": ["https://media.discordapp.net/attachments/1132431969486131313/1132648823483805716/ROCC_LAYTON_ACE_SWISS_3.png"],
-            "x": 406,
-            "y": 1171
+            "x": 1148,
+            "y": 1172
+        }
         }
     ]
 }
