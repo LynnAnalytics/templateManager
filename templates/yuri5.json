@@ -1,0 +1,15 @@
+{
+  "contact": "lynnlol",
+  "templates": [
+    {
+      "name": "hehehe",
+      "sources": [
+        "https://i.imgur.com/NVvBLkw.png"
+      ],
+      "x": 84,
+      "y": 330
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
