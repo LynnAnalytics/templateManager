@@ -1,0 +1,15 @@
+{
+  "contact": "lynnlol",
+  "templates": [
+    {
+      "name": "finally_good_apple",
+      "sources": [
+        "https://i.imgur.com/D8aGH5g.png"
+      ],
+      "x": 92,
+      "y": 293
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
