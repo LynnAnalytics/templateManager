@@ -1,0 +1,30 @@
+{
+  "contact": "lynnlol",
+  "templates": [
+    {
+      "name": "TouhouYuri",
+      "sources": [
+        "https://i.imgur.com/h9ZiYtb.png"
+      ],
+      "x": 0,
+      "y": 377
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
+{
+  "contact": "lynnlol",
+  "templates": [
+    {
+      "name": "hehehe",
+      "sources": [
+        "https://i.imgur.com/NVvBLkw.png"
+      ],
+      "x": 84,
+      "y": 330
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
